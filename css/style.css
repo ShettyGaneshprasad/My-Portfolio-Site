@@ -1107,9 +1107,9 @@ a.brand:focus {
 }
 .project-box h5 {
   margin: 0;
-  color: #fff;
+  color: red;
   font-size: 1.8rem;
-  font-weight: 300;
+  font-weight: 900;
 }
 .project-category {
   color: yellow;
