@@ -921,7 +921,7 @@ a.brand:focus {
   margin: 0;
 }
 .display-2 {
-  font-size: 5.14rem;
+  font-size: 3.85rem;
   font-weight: 600;
   line-height: 1;
   letter-spacing: -0.05em;
@@ -1038,7 +1038,6 @@ a.brand:focus {
 .col-partner img {
   margin: 0 auto;
   max-width: 100%;
-  opacity: 0.4;
 }
 .col-partner:hover img {
   opacity: 1;
