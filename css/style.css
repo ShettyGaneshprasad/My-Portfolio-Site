@@ -1106,12 +1106,12 @@ a.brand:focus {
 }
 .project-box h5 {
   margin: 0;
-  color: red;
+  color: white;
   font-size: 1.8rem;
   font-weight: 900;
 }
 .project-category {
-  color: yellow;
+  color: red;
   margin-top: 0.5rem;
 }
 .project-box:hover {
@@ -1122,7 +1122,7 @@ a.brand:focus {
   color: #ff0000 !important;
 }
 .project-box:hover .project-category {
-  color: red;
+  color: white;
 }
 .link-arrow {
   float: right;
