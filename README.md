@@ -1,10 +1,10 @@
 # My portfolio site
 
-This is a my own portfolio website</br>
-It contains all Previous Project's details, Certification and contact information.
+This is my own portfolio website</br>
+It contains all Previous Project's details, Education, Certification and contact information.
 
 * [**To check this website click here**](https://shettyganeshprasad.netlify.app/)
-* [**https://shettyganeshprasad.netlify.app/**](https://shettyganeshprasad.netlify.app/)
+
 
 ## Website's Screenshot
 <p>
