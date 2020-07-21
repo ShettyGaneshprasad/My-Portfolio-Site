@@ -32,21 +32,21 @@ body {
 
 ::-webkit-scrollbar-thumb {
   cursor: pointer;
-  background: #ff0000;
+  background: #f8e91a;
 }
 
 ::selection {
-  background-color: #ff0000;
+  background-color: #f8e91a;
   color: #fff;
 }
 
 -webkit-::selection {
-  background-color: #ff0000;
+  background-color: #f8e91a;
   color: #fff;
 }
 
 ::-moz-selection {
-  background-color: #ff0000;
+  background-color: #f8e91a;
   color: #fff;
 }
 
@@ -161,8 +161,7 @@ strong {
 
 p,
 blockquote {
-  mar
-  gin-bottom: 2.6rem;
+  margin-bottom: 2.6rem;
 }
 blockquote {
   font-size: 1.714rem;
@@ -171,7 +170,7 @@ blockquote {
   padding: 0;
   width: 80%;
   padding-left: 6.8rem;
-  border-left: 0.3rem solid #ff0000;
+  border-left: 0.3rem solid #f8e91a;
   margin-top: 5rem;
   color: #fff;
 }
@@ -185,14 +184,14 @@ cite {
 }
 
 a {
-  color: #ff0000;
+  color: #f8e91a;
   -webkit-transition: color 0.3s ease-out;
   -o-transition: color 0.3s ease-out;
   transition: color 0.3s ease-out;
 }
 
 a:hover {
-  color: #ff0000;
+  color: #f8e91a;
   outline: none;
 }
 
@@ -242,7 +241,7 @@ input[type="email"]:focus,
 input[type="search"]:focus,
 input[type="tel"]:focus,
 textarea:focus {
-  border-color: #ff0000;
+  border-color: #f8e91a;
   outline: 0;
   color: #fff;
 }
@@ -288,7 +287,7 @@ label.error {
 }
 .btn:hover,
 .btn:focus {
-  background-color: #ff0000;
+  background-color: #f8e91a;
   color: #fff;
   -webkit-box-shadow: none;
   box-shadow: none;
@@ -311,8 +310,8 @@ label.error {
   transition: all 0.3s ease-out;
 }
 .ion-ios-play:hover {
-  color: #ff0000;
-  border: 1px solid #ff0000;
+  color: #f8e91a;
+  border: 1px solid #f8e91a;
 }
 .animsition {
   position: absolute;
@@ -351,7 +350,7 @@ label.error {
   width: 100%;
   height: 100%;
   border-radius: 50%;
-  background-color: #ff0000;
+  background-color: #f8e91a;
   opacity: 0.6;
   position: absolute;
   top: 0;
@@ -390,7 +389,7 @@ label.error {
   color: #fff;
 }
 .text-primary {
-  color: #ff0000 !important;
+  color: #f8e91a !important;
 }
 .masked {
   position: relative;
@@ -483,7 +482,7 @@ a.brand:focus {
   margin-top: 4px;
 }
 .navbar-toggle:hover .icon-bar {
-  background-color: #ff0000;
+  background-color: #f8e91a;
 }
 .navbar .social-list {
   float: right;
@@ -511,7 +510,7 @@ a.brand:focus {
   margin-left: 0;
 }
 .social-list a:hover {
-  color: #ff0000;
+  color: #f8e91a;
   text-decoration: none;
 }
 .navbar-spacer {
@@ -595,7 +594,7 @@ a.brand:focus {
   transition: all 0.3s ease;
 }
 .close-menu:hover {
-  color: #ff0000;
+  color: #f8e91a;
 }
 .menu .menu-lang {
   opacity: 0;
@@ -624,7 +623,7 @@ a.brand:focus {
 }
 .menu-lang .active,
 .menu-lang a:hover {
-  color: #ff0000;
+  color: #f8e91a;
   text-decoration: none;
 }
 .menu-list {
@@ -705,7 +704,7 @@ a.brand:focus {
   margin-right: 0;
 }
 .menu-footer .social-list a:hover {
-  color: #ff0000;
+  color: #f8e91a;
 }
 .menu-footer .copy {
   opacity: 0;
@@ -820,7 +819,7 @@ a.brand:focus {
 #pp-nav .pp-nav-down:hover,
 #pp-nav.white .pp-nav-up:hover,
 #pp-nav.white .pp-nav-down:hover {
-  color: #ff0000;
+  color: #f8e91a;
 }
 #pp-nav.white .pp-nav-up,
 #pp-nav.white .pp-nav-down {
@@ -834,7 +833,7 @@ a.brand:focus {
 .pp-slidesNav .active span,
 #pp-nav span:hover,
 .pp-slidesNav span:hover {
-  background: #ff0000;
+  background: #f8e91a;
 }
 .pagepiling .section {
   background: #272727;
@@ -979,7 +978,7 @@ a.brand:focus {
   vertical-align: middle;
   width: 20.15rem;
   height: 41.15rem;
-  border: 0.657rem solid #ff0000;
+  border: 0.657rem solid #f8e91a;
   left: 5rem;
   top: -2rem;
 }
@@ -1020,7 +1019,7 @@ a.brand:focus {
   margin-bottom: 0;
 }
 .progress-bar {
-  background-color: #ff0000;
+  background-color: #f8e91a;
 }
 .resume-title {
   position: relative;
@@ -1141,11 +1140,11 @@ a.brand:focus {
   margin-top: 0.5rem;
 }
 .project-box:hover {
-  color: #ff0000;
+  color: #f8e91a;
   text-decoration: none;
 }
 .project-box:hover h5 {
-  color: #ff0000 !important;
+  color: #f8e91a !important;
 }
 .project-box:hover .project-category {
   color: white;
@@ -1175,12 +1174,12 @@ a.brand:focus {
 .icon-quote {
   display: inline-block;
   margin-top: -0.6rem;
-  color: #ff0000;
+  color: #f8e91a;
   width: 5rem;
   height: 5rem;
   line-height: 4.2rem;
   text-align: center;
-  border: 2px solid #ff0000;
+  border: 2px solid #f8e91a;
   border-radius: 50%;
   font-size: 2.454rem;
   margin-bottom: 5rem;
@@ -1250,13 +1249,13 @@ a.brand:focus {
   display: block;
   width: 12px;
   height: 12px;
-  border: #ff0000 1px solid;
+  border: #f8e91a 1px solid;
   position: relative;
   margin: 5px;
   border-radius: 50%;
 }
 .owl-dot.active span {
-  background: #ff0000;
+  background: #f8e91a;
 }
 .content {
   padding-top: 17rem;
