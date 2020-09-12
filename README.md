@@ -29,7 +29,7 @@ It contains all Previous Project's details, Education, Certification and contact
 Send us your valuable suggestion and feedback at:- shettyganeshprasad1998@gmail.com 
 
 
-## Built by
+## Designed and Built by
 * [**Shetty Ganeshprasad**](https://github.com/ganeshShetty98/)
 
 
